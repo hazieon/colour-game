@@ -1,2 +1,4 @@
 # colour-game
-https://github.com/barisdemirezen
+
+Vanilla JavaScript, HTML & CSS project
+Collaboration with: https://github.com/barisdemirezen
